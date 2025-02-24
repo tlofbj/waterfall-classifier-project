@@ -31,4 +31,4 @@ Created by Tata Li and mentored by Mitch McLean, this project demonstrates binar
 
 ## Contributors
 
-This project was created by Tata Li and mentored by Mitch McLean in February, 2025.
+This project was created by Tata Li and mentored by Mitch McLean, February, 2025.
