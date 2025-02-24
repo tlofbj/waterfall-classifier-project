@@ -28,3 +28,7 @@ Created by Tata Li and mentored by Mitch McLean, this project demonstrates binar
 * `numpy` - Numpy arrays
 * `argparse` - Command line argument retrieving
 * `termcolor` - Command line colors
+
+## Contributors
+
+This project was created by Tata Li and mentored by Mitch McLean in February, 2025.
