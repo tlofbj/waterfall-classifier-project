@@ -4,7 +4,7 @@ This project demonstrates binary classification of standard SATNOGS waterfall im
 
 ## Versions
 
-* **1.0.0** - 87.5% Accuracy. Last edited Feb 23, 2025.
+* **1.0.0** - 87.5% Accuracy. Last edited: Feb 23, 2025.
 
 ## Dataset
 
@@ -31,5 +31,5 @@ This project demonstrates binary classification of standard SATNOGS waterfall im
 
 ## Contributors
 
-This project was created by Tata Li and mentored by Mitch McLean, February, 2025.
+This project was created by Tata Li and mentored by Mitch McLean. February, 2025.
 
