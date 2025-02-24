@@ -2,9 +2,9 @@
 
 Created by Tata Li and mentored by Mitch McLean, this project demonstrates binary classification of standard SATNOGS waterfall images based on the presence of signal in the images using a Support Vector Machine (SVM) trained over a sample from NOAA-19 at 137.1 MHz. More data may be added later to improve the model.
 
-## Version
+## Versions
 
-**1.0.0** - 87.5% Accuracy. Last edited Feb 23, 2025.
+* **1.0.0** - 87.5% Accuracy. Last edited Feb 23, 2025.
 
 ## Dataset
 
